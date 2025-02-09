@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.ebc4e4ef.css",
+    "main.js": "/react-portfolio-website/static/js/main.78097148.js",
+    "static/js/453.aac68abc.chunk.js": "/react-portfolio-website/static/js/453.aac68abc.chunk.js",
+    "static/media/tempcovert.png": "/react-portfolio-website/static/media/tempcovert.5fedc61e33ec1e95ba11.png",
+    "static/media/js.png": "/react-portfolio-website/static/media/js.b35b06ee43eccfec3018.png",
+    "static/media/portfolio.png": "/react-portfolio-website/static/media/portfolio.e72472a58e4351ef1859.png",
+    "static/media/bootstrap-icons.woff?": "/react-portfolio-website/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/nodejs (2).png": "/react-portfolio-website/static/media/nodejs (2).6e2d2ec7fd76bf74159a.png",
+    "static/media/bootstrap-icons.woff2?": "/react-portfolio-website/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/creditCardFraud.png": "/react-portfolio-website/static/media/creditCardFraud.e81a40d34a380802e88f.png",
+    "static/media/css-removebg-preview.png": "/react-portfolio-website/static/media/css-removebg-preview.18181e1fa0b1457a03ca.png",
+    "static/media/profile.jpeg": "/react-portfolio-website/static/media/profile.a8226b47a7326fd3294d.jpeg",
+    "static/media/react.png": "/react-portfolio-website/static/media/react.6760ec651a2774e80f01.png",
+    "static/media/housingPrice.png": "/react-portfolio-website/static/media/housingPrice.9ec534bf56e9e85a3a13.png",
+    "static/media/passGen.png": "/react-portfolio-website/static/media/passGen.c7c2101d61995f5680d4.png",
+    "static/media/python.png": "/react-portfolio-website/static/media/python.212de8d7278260fca353.png",
+    "static/media/html.png": "/react-portfolio-website/static/media/html.ee819c464ccfe2601cf3.png",
+    "static/media/Light Purple Initial SK Logo.png": "/react-portfolio-website/static/media/Light Purple Initial SK Logo.c4b2e2dd196c2d0e55b2.png",
+    "static/media/onlineComp.png": "/react-portfolio-website/static/media/onlineComp.48e3360d31cf1e9ea4ff.png",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.ebc4e4ef.css.map": "/react-portfolio-website/static/css/main.ebc4e4ef.css.map",
+    "main.78097148.js.map": "/react-portfolio-website/static/js/main.78097148.js.map",
+    "453.aac68abc.chunk.js.map": "/react-portfolio-website/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc4e4ef.css",
+    "static/js/main.78097148.js"
+  ]
+}
