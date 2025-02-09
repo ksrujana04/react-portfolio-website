@@ -4,13 +4,13 @@ import profile from '../assets/images/profile.jpeg';
 import { ThemeContext } from "../Theme";
 
 function Home() {
-    const { theme, toggleTheme } = useContext(ThemeContext);
-    let cls = `home-${theme}`;
+    const { theme} = useContext(ThemeContext);
+    //let cls = `home-${theme}`;
     return <div className="home-main d-md-flex d-sm-block w-75 h-lg-100vh" id="home">
-        <div className="${cls} home-heading ">
+        <div className=" home-heading ">
             <b >Srujana</b><br></br>
             <b>Kovuri</b>
-            <div className='${theme} soc-icons mx-sm-auto'>
+            <div className='soc-icons mx-sm-auto'>
                 <a href="https://www.linkedin.com/in/kovuri-srujana/" className="soc-icon"><i className="bi bi-linkedin" ></i></a>
                 <a href="https://github.com/ksrujana04" className="soc-icon"><i className="bi bi-github theme" ></i></a>
                 <a href="mailto:srujana4619@gmail.com" className="soc-icon"><i className="bi bi-envelope-fill"></i></a></div>

@@ -7,8 +7,6 @@ import git from "../assets/images/git.png";
 import mongodb from "../assets/images/mongodb.png"
 import nodejs from "../assets/images/nodejs (2).png"
 import expressjs from "../assets/images/expressjs.png"
-import Card from "./card.jsx"
-import Slider from "./slider.jsx"
 import useEmblaCarousel from 'embla-carousel-react';
 import AutoScroll from 'embla-carousel-auto-scroll';
 import React, { useEffect, useCallback } from "react";

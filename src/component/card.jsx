@@ -1,3 +1,4 @@
+import React from "react";
 function Card(props){
     return <span className={props.className}>
         <h1>{props.heading}</h1>

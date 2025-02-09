@@ -5,6 +5,7 @@ import housingPrice from "../assets/images/housingPrice.png"
 import passGen from "../assets/images/passGen.png"
 import onlineComp from "../assets/images/onlineComp.png"
 import tempcovert from "../assets/images/tempcovert.png"
+import React from "react";
 
 function Projects() {
     return <div id="projects" className="p-3">

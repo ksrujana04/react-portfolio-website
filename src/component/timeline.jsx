@@ -1,12 +1,11 @@
 import React,{useContext} from 'react';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
-import { FaGraduationCap, FaBriefcase, FaTrophy } from 'react-icons/fa';
 import { ThemeContext } from "../Theme.js";
 
 
 const Timeline = () => {
-  const { theme, toggleTheme } = useContext(ThemeContext);
+  const { theme} = useContext(ThemeContext);
       let cls = `timeline-${theme}`;
   return (
     <div>

@@ -1,7 +1,6 @@
 import React, { useContext , useState} from "react";
 import { ThemeContext } from "../Theme";
-import classNames from 'classnames';
-import lightlogo from '../assets/images/Light Purple Initial SK Logo.png'
+
 function Navbar() {
   const { theme, toggleTheme } = useContext(ThemeContext);
   const [open , setOpen] = useState(false);

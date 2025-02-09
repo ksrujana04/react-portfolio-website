@@ -1,4 +1,4 @@
-import React,{ useRef, useEffect, useContext} from 'react';
+import React,{  useEffect, useContext} from 'react';
 import {  useParams, Link } from "react-router-dom";
 import { ThemeContext } from "../Theme.js";
 
@@ -6,7 +6,7 @@ import { ThemeContext } from "../Theme.js";
 
 
 const  Footer = () => {
-    const { theme, toggleTheme } = useContext(ThemeContext);
+    const { theme} = useContext(ThemeContext);
     let cls = `footer-${theme}`;
     const {sectionid} = useParams();
     useEffect(()=>{
