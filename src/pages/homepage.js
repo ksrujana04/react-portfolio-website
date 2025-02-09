@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {BrowserRouter, Router, Routes} from 'react-router-dom';
+//import {BrowserRouter, Router, Routes} from 'react-router-dom';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import React,{ useContext } from "react";
 import Home from "../component/home";

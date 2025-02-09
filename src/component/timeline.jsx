@@ -6,7 +6,7 @@ import { ThemeContext } from "../Theme.js";
 
 const Timeline = () => {
   const { theme} = useContext(ThemeContext);
-      let cls = `timeline-${theme}`;
+      //let cls = `timeline-${theme}`;
   return (
     <div>
       <h2 className="timeline-title">Education</h2>

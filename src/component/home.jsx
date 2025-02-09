@@ -1,10 +1,10 @@
-import React, { useContext } from "react";
+import React from "react";
 //import black from "../assets/images/black.jpg";
 import profile from '../assets/images/profile.jpeg';
-import { ThemeContext } from "../Theme";
+//import { ThemeContext } from "../Theme";
 
 function Home() {
-    const { theme} = useContext(ThemeContext);
+    //const { theme} = useContext(ThemeContext);
     //let cls = `home-${theme}`;
     return <div className="home-main d-md-flex d-sm-block w-75 h-lg-100vh" id="home">
         <div className=" home-heading ">
