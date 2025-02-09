@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from './pages/homepage';
 import {BrowserRouter as Router, Routes,Route} from 'react-router-dom';
 import 'bootstrap-icons/font/bootstrap-icons.css';
-// import React,{ useContext } from "react";
+ import React from "react";
 // import Home from "./component/home";
 // import About from "./component/about";
 // import Skills from "./component/skills";
