@@ -31,7 +31,7 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.18.6",
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://ksrujana04.github.io/react-portfolio-website/",
+  "homepage": "https://ksrujana04.github.io/react-portfolio-website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
