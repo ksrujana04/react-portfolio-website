@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from './pages/homepage';
-import {BrowserRouter as Router, Routes,Route} from 'react-router-dom';
+import {HashRouter as Router, Routes,Route} from 'react-router-dom';
 import 'bootstrap-icons/font/bootstrap-icons.css';
  import React from "react";
 // import Home from "./component/home";
