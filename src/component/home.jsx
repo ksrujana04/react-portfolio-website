@@ -6,7 +6,7 @@ import profile from '../assets/images/profile.jpeg';
 function Home() {
     //const { theme} = useContext(ThemeContext);
     //let cls = `home-${theme}`;
-    return <div className="home-main d-md-flex d-sm-block w-75 h-lg-100vh" id="home">
+    return <div className="home-main d-md-flex d-sm-block w-75 p-lg-5 " id="home">
         <div className=" home-heading ">
             <b >Srujana</b><br></br>
             <b>Kovuri</b>

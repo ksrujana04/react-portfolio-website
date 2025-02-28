@@ -18,7 +18,7 @@ const  Footer = () => {
         }
     },[sectionid]);
   return (
-    <div className={`${cls} d-md-flex d-sm-block text-center`} id='footer'>
+    <div className={`${cls} d-md-flex d-sm-block text-center p-4`} id='footer'>
         <div className={`${cls} footer-heading p-2 `}><h1 style={{color:"white"}} className=''>Portfolio</h1></div>
         <div className="footer-links">
             <ul>
